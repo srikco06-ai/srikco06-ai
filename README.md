@@ -1,32 +1,35 @@
 # Hi, I'm Sri Krishna Chaitanya 👋
 
-AI Engineer | Full-Stack Developer | Building AI-Powered Applications
+**AI Engineer | Full-Stack Developer | Building AI-Powered Applications**
 
-## Portfolio
+🌐 Portfolio: https://srikco06-ai.vercel.app/
 
-Website: https://srikco06-ai.vercel.app/
+---
 
-## Featured Projects
+## 🚀 Featured Project
 
 ### AI Content Moderation Engine
 
-Full-stack moderation platform built with Next.js and FastAPI.
+Production-ready content moderation platform built with Next.js and FastAPI.
 
-**Features**
+#### Features
 
-* Toxicity detection
-* Risk scoring
-* Moderation history
+* Toxicity Detection
+* Risk Scoring
+* Moderation History
 * REST API
-* Railway deployment
+* Railway Deployment
+* Interactive API Documentation
 
-**Links**
+#### Links
 
 * Live Demo: https://ai-content-moderation-engine-production-aa71.up.railway.app/
 * API Docs: https://ai-content-moderation-engine-production.up.railway.app/docs
 * Repository: https://github.com/srikco06-ai/ai-content-moderation-engine
 
-## Tech Stack
+---
+
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -41,7 +44,7 @@ Full-stack moderation platform built with Next.js and FastAPI.
 * FastAPI
 * REST APIs
 
-### AI
+### AI & Machine Learning
 
 * NLP Applications
 * Prompt Engineering
@@ -53,13 +56,18 @@ Full-stack moderation platform built with Next.js and FastAPI.
 * GitHub
 * Railway
 
-## Current Projects
+---
+
+## 📌 Current Projects
 
 * AI Resume Analyzer
 * AI Interview Coach
 * Healthcare AI Solutions
 
-## Contact
+---
+
+## 📫 Contact
 
 * Portfolio: https://srikco06-ai.vercel.app/
 * GitHub: https://github.com/srikco06-ai
+* Email: [srikco06@gmail.com](mailto:srikco06@gmail.com)

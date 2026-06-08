@@ -2,7 +2,7 @@
 
 **AI Engineer | Full-Stack Developer | Building AI-Powered Applications**
 
-🌐 Portfolio: https://srikco06-ai.vercel.app/
+🌐 **Portfolio:** https://srikco06-ai.vercel.app/
 
 ---
 
@@ -10,9 +10,9 @@
 
 ### AI Content Moderation Engine
 
-Production-ready content moderation platform built with Next.js and FastAPI.
+Production-ready content moderation platform built with **Next.js**, **FastAPI**, and **TypeScript**.
 
-#### Features
+#### Key Features
 
 * Toxicity Detection
 * Risk Scoring
@@ -21,11 +21,11 @@ Production-ready content moderation platform built with Next.js and FastAPI.
 * Railway Deployment
 * Interactive API Documentation
 
-#### Links
+#### Project Links
 
-* Live Demo: https://ai-content-moderation-engine-production-aa71.up.railway.app/
-* API Docs: https://ai-content-moderation-engine-production.up.railway.app/docs
-* Repository: https://github.com/srikco06-ai/ai-content-moderation-engine
+* **Live Demo:** https://ai-content-moderation-engine-production-aa71.up.railway.app/
+* **API Docs:** https://ai-content-moderation-engine-production.up.railway.app/docs
+* **Repository:** https://github.com/srikco06-ai/ai-content-moderation-engine
 
 ---
 
@@ -58,7 +58,7 @@ Production-ready content moderation platform built with Next.js and FastAPI.
 
 ---
 
-## 📌 Current Projects
+## 📌 Current Roadmap
 
 * AI Resume Analyzer
 * AI Interview Coach

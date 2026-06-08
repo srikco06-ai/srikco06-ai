@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Sri Krishna Chaitanya 👋
 
-<!--
-**srikco06-ai/srikco06-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Full-Stack Developer | Building AI-Powered Applications
 
-Here are some ideas to get you started:
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://srikco06-ai.vercel.app/
+
+## Featured Projects
+
+### AI Content Moderation Engine
+
+Full-stack moderation platform built with Next.js and FastAPI.
+
+**Features**
+
+* Toxicity detection
+* Risk scoring
+* Moderation history
+* REST API
+* Railway deployment
+
+**Links**
+
+* Live Demo: https://ai-content-moderation-engine-production-aa71.up.railway.app/
+* API Docs: https://ai-content-moderation-engine-production.up.railway.app/docs
+* Repository: https://github.com/srikco06-ai/ai-content-moderation-engine
+
+## Tech Stack
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+### Backend
+
+* Python
+* FastAPI
+* REST APIs
+
+### AI
+
+* NLP Applications
+* Prompt Engineering
+* AI Product Development
+
+### Cloud & DevOps
+
+* Git
+* GitHub
+* Railway
+
+## Current Projects
+
+* AI Resume Analyzer
+* AI Interview Coach
+* Healthcare AI Solutions
+
+## Contact
+
+* Portfolio: https://srikco06-ai.vercel.app/
+* GitHub: https://github.com/srikco06-ai
